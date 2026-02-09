@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18cd1d77-f847-4d1c-ad8d-5c1782a9b22d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="391t3IIgp8c80lRHXPBiNRrgxM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.InventarioServiceTest.cuandoInventarioServiceEsInstanciadoEjecutaOperacion.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InventarioServiceTest.cuandoLaInstanciaProductoRepositoryEsNulaError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InventarioServiceTest.cuandoLaInstanciaProveedorRepositoryEsNulaError.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InventarioServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TransferServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-esencial [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-esencial [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-esencial [package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringEsencialApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/monta/Downloads/spring-esencial&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TransferServiceTest">
+    <configuration name="InventarioServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sv.edu.udb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sv.edu.udb.service" />
+      <option name="MAIN_CLASS_NAME" value="sv.edu.udb.service.InventarioServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventarioServiceTest.cuandoInventarioServiceEsInstanciadoEjecutaOperacion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sv.edu.udb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sv.edu.udb.service" />
+      <option name="MAIN_CLASS_NAME" value="sv.edu.udb.service.InventarioServiceTest" />
+      <option name="METHOD_NAME" value="cuandoInventarioServiceEsInstanciadoEjecutaOperacion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventarioServiceTest.cuandoLaInstanciaProductoRepositoryEsNulaError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sv.edu.udb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sv.edu.udb.service" />
+      <option name="MAIN_CLASS_NAME" value="sv.edu.udb.service.InventarioServiceTest" />
+      <option name="METHOD_NAME" value="cuandoLaInstanciaProductoRepositoryEsNulaError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventarioServiceTest.cuandoLaInstanciaProveedorRepositoryEsNulaError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sv.edu.udb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sv.edu.udb.service" />
+      <option name="MAIN_CLASS_NAME" value="sv.edu.udb.service.InventarioServiceTest" />
+      <option name="METHOD_NAME" value="cuandoLaInstanciaProveedorRepositoryEsNulaError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransferServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sv.edu.udb.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sv.edu.udb.service" />
+      <option name="MAIN_CLASS_NAME" value="sv.edu.udb.service.TransferServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEsencialApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-esencial" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sv.edu.udb.SpringEsencialApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransferServiceTest" />
+        <item itemvalue="JUnit.InventarioServiceTest" />
+        <item itemvalue="JUnit.InventarioServiceTest.cuandoInventarioServiceEsInstanciadoEjecutaOperacion" />
+        <item itemvalue="JUnit.InventarioServiceTest.cuandoLaInstanciaProveedorRepositoryEsNulaError" />
+        <item itemvalue="JUnit.InventarioServiceTest.cuandoLaInstanciaProductoRepositoryEsNulaError" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18cd1d77-f847-4d1c-ad8d-5c1782a9b22d" name="Changes" comment="" />
+      <created>1769875205522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769875205522</updated>
+      <workItem from="1769875207344" duration="3529000" />
+      <workItem from="1770647998629" duration="2043000" />
+      <workItem from="1770650100345" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

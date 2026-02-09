@@ -1,0 +1,8 @@
+sv\edu\udb\repository\ProductoRepository.class
+sv\edu\udb\repository\ProveedorRepository.class
+sv\edu\udb\SpringEsencialApplication.class
+sv\edu\udb\repository\domain\Proveedor.class
+sv\edu\udb\repository\implementation\ProveedorRepositoryImpl.class
+sv\edu\udb\repository\domain\Producto.class
+sv\edu\udb\repository\implementation\ProductoRepositoryImpl.class
+sv\edu\udb\service\InventarioService.class
